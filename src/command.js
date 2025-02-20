@@ -14,9 +14,10 @@ yargs(hideBin(process.argv))
     }, 
     (argv)=>{
       console.log("Added new note: ", argv.note)
+      const tags = argv.tags ? argv.tags.split(",") : []
       newNote({
         note: argv.note,
-        tags: argv.tags
+        tags: tags
       })
     }
   )

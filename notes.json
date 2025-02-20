@@ -1,16 +1,28 @@
 {
   "notes": [
     {
-      "id": 1739931007306,
-      "note": "prueba"
+      "id": 1739938403231,
+      "note": "nota de prueba con tags",
+      "tags": [
+        "Prueba",
+        " Prueba"
+      ]
     },
     {
-      "id": 1739931009317,
-      "note": "prueba 2"
+      "id": 1739938416688,
+      "note": "nota de prueba con tags",
+      "tags": [
+        "Prueba",
+        " Prueba"
+      ]
     },
     {
-      "id": 1739931010940,
-      "note": "prueba 3"
+      "id": 1739938421565,
+      "note": "nota de prueba con tags",
+      "tags": [
+        "Prueba",
+        " Prueba"
+      ]
     }
   ]
 }
